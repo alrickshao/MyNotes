@@ -1,0 +1,10 @@
+# 忽略所有 .log 文件
+*.log
+
+# 忽略 build 目录及其中的所有内容
+build/
+
+.DS_Store
+
+# 忽略 .env 文件
+.env
